@@ -1,0 +1,4 @@
+*.pyc
+pythonenv/
+data/
+*.sqlite3
